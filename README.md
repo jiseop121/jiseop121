@@ -16,3 +16,18 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JISEOP%20BAEK&fontSize=90)
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
+class AbhigyanTrips():
+    
+  def __init__(self):
+    self.name = "Abhigyan Tripathi";
+    self.username = "abhigyantrips";
+    self.location = "Mumbai, India";
+    self.twitter = "@abhigyantrips";
+    self.web = "https://abhigyantrips.dev";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = AbhigyanTrips()
