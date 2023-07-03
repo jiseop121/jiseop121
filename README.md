@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </p>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ghdwltjq3})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdwltjq3)](https://solved.ac/profile/ghdwltjq3)
 <!--https://github.com/mazassumnida/mazassumnida-->
 <!--Intro end-->
 
