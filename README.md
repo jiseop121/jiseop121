@@ -53,14 +53,14 @@ Here are some ideas to get you started:
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=jiseop121&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jiseop121&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jiseop121&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=3"/>
   
   </td>
 </tr>
@@ -89,5 +89,3 @@ Here are some ideas to get you started:
 
 
 Credit: [1010nishant](https://github.com/1010nishant)
-
-Last Edited on: 29/4/2023
