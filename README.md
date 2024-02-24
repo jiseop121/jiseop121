@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,java,mysql,py&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,springboot,mysql,py&perline=6" />
   </a>
 </p>
 
