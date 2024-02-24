@@ -87,5 +87,5 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<!--- Credit: [1010nishant](https://github.com/1010nishant) -->
 
-Credit: [1010nishant](https://github.com/1010nishant)
