@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 </td>
 
 <td width="50%" align="center">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiseop121&layout=donut)](https://github.com/jiseop121)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiseop121&layout=compact&theme=dark"/>
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiseop121&layout=donut&theme=dark)] -->
 
   
   </td>
