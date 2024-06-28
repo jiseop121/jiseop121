@@ -52,19 +52,14 @@ Here are some ideas to get you started:
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
+
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=jiseop121&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jiseop121&theme=dark&hide_border=false" /> 
-</td>
 
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiseop121&layout=compact&theme=dark"/>
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiseop121&layout=donut&theme=dark)] -->
 
-  
-  </td>
+
 </tr>
 </table>
 <!--- stats (end) -->
