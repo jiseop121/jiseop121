@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  
+
 </p>
 
 [![Solved.ac
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 <td width="50%" align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiseop121&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiseop121&layout=donut)](https://github.com/jiseop121)
 
   
   </td>
